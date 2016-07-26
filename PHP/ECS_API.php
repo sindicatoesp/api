@@ -1,7 +1,6 @@
 <?php
 class Helper_ECS_API {
 	// https://github.com/wa-research/api/wiki/ECS-API
-	// Example script for 'list-members' operation
 	// $Community variable is the path to a community from site root, for example '/parent1/community'
 	// The API also accepts the community in the URL: https://dgroups.org/parent1/communit/__api/v1/operation
 	const KEY 		= '';
